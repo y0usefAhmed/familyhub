@@ -1,3 +1,5 @@
 milk
 eggs
 chicken
+orange
+coffe
