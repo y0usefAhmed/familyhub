@@ -3,3 +3,5 @@ eggs
 chicken
 orange
 coffe
+apple
+mango
